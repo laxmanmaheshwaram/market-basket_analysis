@@ -13,27 +13,27 @@ The analysis uses:
 ## 📂 Project Structure
 market-basket-analysis/
 │
-├── data/
-│ ├── online_retail.csv # Raw transactional dataset
-│ ├── frequent_itemsets.csv # Output: frequent itemsets
-│ └── association_rules.csv # Output: generated rules
+├── data/ \n
+│ ├── online_retail.csv # Raw transactional dataset\n
+│ ├── frequent_itemsets.csv # Output: frequent itemsets\n
+│ └── association_rules.csv # Output: generated rules\n
 │
-├── notebooks/
-│ └── market_basket_analysis.ipynb # Main Jupyter Notebook
+├── notebooks/\n
+│ └── market_basket_analysis.ipynb # Main Jupyter Notebook \n
 │
-├── images/
-│ ├── top_items.png # Visualization of top products
-│ └── network_graph.png # Product association network
+├── images/ \n
+│ ├── top_items.png # Visualization of top products \n
+│ └── network_graph.png # Product association network \n
 │
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
+├── requirements.txt # Dependencies \n
+└── README.md # Project documentation \n
 
 🛠️ Tech Stack
 Python (pandas, mlxtend, matplotlib, seaborn)
 Jupyter Notebook for analysis
 Git & GitHub for version control
 
-Key Insights
+## Key Insights
 Certain products frequently co-occur, suggesting cross-selling opportunities.
 Confidence and lift metrics help prioritize which rules are most actionable.
 The methodology can be applied to marketing campaign design, store layout optimization, and inventory planning.
