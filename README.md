@@ -11,22 +11,22 @@ The analysis uses:
 
 ---
 ## 📂 Project Structure
-market-basket-analysis/
+market-basket-analysis
 │
-├── data/ \n
-│ ├── online_retail.csv # Raw transactional dataset\n
-│ ├── frequent_itemsets.csv # Output: frequent itemsets\n
-│ └── association_rules.csv # Output: generated rules\n
+├── data/ 
+│ ├── online_retail.csv # Raw transactional dataset
+│ ├── frequent_itemsets.csv # Output: frequent itemsets
+│ └── association_rules.csv # Output: generated rules
 │
-├── notebooks/\n
-│ └── market_basket_analysis.ipynb # Main Jupyter Notebook \n
+├── notebooks/
+│ └── market_basket_analysis.ipynb # Main Jupyter Notebook 
 │
-├── images/ \n
-│ ├── top_items.png # Visualization of top products \n
-│ └── network_graph.png # Product association network \n
+├── images/ 
+│ ├── top_items.png # Visualization of top products 
+│ └── network_graph.png # Product association network 
 │
-├── requirements.txt # Dependencies \n
-└── README.md # Project documentation \n
+├── requirements.txt # Dependencies 
+└── README.md # Project documentation 
 
 🛠️ Tech Stack
 Python (pandas, mlxtend, matplotlib, seaborn)
@@ -39,7 +39,7 @@ Confidence and lift metrics help prioritize which rules are most actionable.
 The methodology can be applied to marketing campaign design, store layout optimization, and inventory planning.
 
 
-## Example visualizations
+## visualizations
 
 
 
