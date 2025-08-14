@@ -1,0 +1,6 @@
+# example .gitignore entries
+echo ".venv/
+data/*.xlsx
+.ipynb_checkpoints/
+*.pyc
+.DS_Store" >> .gitignore
