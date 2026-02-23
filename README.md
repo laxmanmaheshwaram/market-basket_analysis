@@ -11,6 +11,7 @@ The analysis uses:
 
 ---
 ##  Project Structure
+```text
 market-basket-analysis
 │
 ├── data/ 
@@ -28,7 +29,9 @@ market-basket-analysis
 ├── requirements.txt # Dependencies 
 └── README.md # Project documentation 
 
- Tech Stack
+---
+
+## Tech Stack
 Python (pandas, mlxtend, matplotlib, seaborn)
 Jupyter Notebook for analysis
 Git & GitHub for version control
