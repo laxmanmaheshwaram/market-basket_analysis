@@ -28,7 +28,7 @@ market-basket-analysis
 │
 ├── requirements.txt # Dependencies 
 └── README.md # Project documentation 
-
+```
 ---
 
 ## Tech Stack
