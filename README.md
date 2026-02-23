@@ -1,6 +1,6 @@
-# 🛒 Market Basket Analysis — Online Retail Dataset
+#  Market Basket Analysis — Online Retail Dataset
 
-## 📌 Overview
+## Overview
 This project applies **Market Basket Analysis** techniques on the [UCI Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) to discover **association rules** between products.  
 The goal is to simulate a real-world retail analytics workflow — something valuable in **marketing analytics** and **operations research**.
 
@@ -10,7 +10,7 @@ The analysis uses:
 - **Visualization** of top product combinations
 
 ---
-## 📂 Project Structure
+##  Project Structure
 market-basket-analysis
 │
 ├── data/ 
@@ -28,7 +28,7 @@ market-basket-analysis
 ├── requirements.txt # Dependencies 
 └── README.md # Project documentation 
 
-🛠️ Tech Stack
+ Tech Stack
 Python (pandas, mlxtend, matplotlib, seaborn)
 Jupyter Notebook for analysis
 Git & GitHub for version control
